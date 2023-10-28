@@ -1,0 +1,6 @@
+There are total 5 files
+1) Read Me, the open that you are reading right now
+2) Lead Scoring Case Study- Anuj Sharma (Jupyter Source file)
+3) Lead Scoring Case Study Presentation- Anuj Sharma (pdf format)
+4) Lead Scoring Case Study Summary- Anuj Sharma (pdf format)
+5) Lead Scoring Case Study Assignment- Anuj Sharma (.doc format)
